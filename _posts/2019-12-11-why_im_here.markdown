@@ -1,0 +1,18 @@
+---
+layout: post
+title:      " Why I'm Here: "
+date:       2019-12-11 23:08:01 +0000
+permalink:  why_im_here
+---
+
+
+What brought me to joining the Flat Iron community and getting into software engineering is a long story that I never thought (at least realistically) I'd be telling. But alas, here we are. Since the time I was a sophomore in high school (almost ten years ago now), I believed truly and deeply that I was going to become a clinical psychologist - a licensed marriage counselor. I went off to college away from home a week after high school graduation and after two years of struggling I came back home, repaired my academic and mental and emotional damage, and  finished my degree (several years later). But as accomplished as I felt at having finally made it through to the other side - by then, I had evidently lost sight of why I wanted to pursue that degree in the first place. Besides, to say I 'did the college thing' and finished. After graduation I took on a job in the field I graduated in and hated it. Stressed me out so much I had my first (and last) panic attack in the car in the employee parking lot.
+
+I planned to try to stick the job out a few weeks longer but was let go anyways (there's a first time for everything). The day I was let go was the biggest relief I felt in awhile. I then went to graduate school for a year to study in my desired concentration, clinical counseling. I thought - if I can go to school and study what I really wanted to in the first place instead of just the broader subject matter, I'd regain the passion I lost somewhere in undergrad. That didn't happen. I got through that first leg and by the time we were off for vacation it solidified that, this (as a career path) wasn't for me anymore. So I left school, and took eight months to figure out my plan B. 
+
+I always had an interest in technology as a whole, just like I had for human behavior. I think that's why artifical intelligence intrigues me so much. Gadgets, website making, artificial intelligence (Google AI), computers, smart devices, digital cameras, etc. I spent a lot of freetime watching ted talks related to technology, reading articles on new technological advances, keeping up with CNET for tech news, not to mention watching probably way too many tech reviews on numerous gadgets and gizmos on Youtube. And I remembered thinking (for a brief moment), it would be so cool to work in that space. Because where it is going seems full of endless possibilities and borderline revolutionary. I thought back on that moment in those eight months, and then thought about how I spend my me time, what I find myself drawn to on a regular basis, and it's technology. Always. It doesn't hurt that I'm also (like many others my age and a bit younger) the designated IT person in my family, and normally don't mind it. When I was in high school I took html classes for electives along with an intro to psych class, and I loved it. Very basic coding of course, but the idea of building something with technology from the ground-up and being an artist, a creator, in that very different non-traditional (to me at the time) way was something very intriguing to me. Just at the time, it wasn't something I was able to see as a financially sound career aspiration and so I put that idea to bed for more than half a decade. 
+
+Till now.
+
+I came to Flat Iron to learn to code, to learn to build and engineer software. I came here to see how far I can go, to explore the possibilities. And if I can find a way to blend or mix behavioral studies into it, I'll just be all the happier and more determined. 
+goes here.
