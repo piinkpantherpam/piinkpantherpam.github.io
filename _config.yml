@@ -1,11 +1,11 @@
 # Site settings
-author: Pam Cairo
-title: 
+author: P. Cairo
+title: Part-Time FlatIron Software Engineering Blog
 header-img: img/home-bg.png
 email: pcairo_90@outlook.com
-copyright_name: Pam Cairo
+copyright_name: P. Cairo
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Tech Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: pamcakez5
 github_username:  piinkpantherpam
